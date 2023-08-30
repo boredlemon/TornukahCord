@@ -117,7 +117,7 @@
                     "viewing_old": "Viewing older messages",
                     "spoiler_attachment": "Spoiler",
                     "failed_load": "Couldn't load message.",
-                    "no_sending": "You don't have permission to send messages in this channel.",
+                    "no_sending": "You don't have permission to send messages in this channel :(",
                     "blocked_messages": "{{count}} blocked messages",
                     "blocked_user": "Blocked User",
                     "sent_file": "Sent an attachment",
@@ -187,7 +187,7 @@
             },
             "pages": {
                 "account": {
-                    "title": "My Account",
+                    "title": "DolphinCord Account",
                     "change_field": "Change",
                     "2fa": {
                         "description": "Add an extra layer of security by enabling 2FA on your account.",

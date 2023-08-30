@@ -161,7 +161,7 @@
                     "spoiler_attachment": "Spoiler",
                     "failed_load": "Couldn't load message.",
                     "not_loaded": "Message not loaded, click to jump",
-                    "no_sending": "You don't have permission to send messages in this channel.",
+                    "no_sending": "You don't have permission to send messages in this channel :(",
                     "timed_out": "You are timed out for {{time}}.",
                     "blocked_messages": "{{count}} blocked messages",
                     "blocked_user": "Blocked User",
@@ -241,7 +241,7 @@
             },
             "pages": {
                 "account": {
-                    "title": "My Account",
+                    "title": "DolphinCord Account",
                     "change_field": "Change",
                     "unique_id": "This is a unique user identifier for your account.",
                     "2fa": {

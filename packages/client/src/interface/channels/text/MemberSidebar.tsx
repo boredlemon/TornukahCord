@@ -208,7 +208,7 @@ export function ServerMemberSidebar(props: Props) {
                   false
               ).length
             }{" "}
-            members online
+            members online🟢
           </Row>
         </CategoryTitle>
 

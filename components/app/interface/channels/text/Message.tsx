@@ -193,7 +193,7 @@ export function Message(props: Props) {
             }
           >
             <NewUser>
-              <Tooltip content="New to the server" placement="top">
+              <Tooltip content="New to this server!!!" placement="top">
                 <BiSolidLeaf size={16} />
               </Tooltip>
             </NewUser>
